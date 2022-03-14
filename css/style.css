@@ -444,7 +444,7 @@
         max-width: 100%;
         min-height: 810px;
 
-        background: url("../images/fon-mobile.jpg") center center top no-repeat;
+        background: url("../images/fon-mobile.jpg") center center no-repeat;
         background-size: cover;
     }
 
