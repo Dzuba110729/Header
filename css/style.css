@@ -486,7 +486,7 @@
     }
 
     .btn-see {
-        max-width: 170px;
+        width: 170px;
         height: 40px;
         font-size: 12px;
         line-height: 15px;
@@ -496,7 +496,7 @@
     }
 
     .btn-create2 {
-        max-width: 113px;
+        width: 113px;
         height: 40px;
         font-size: 12px;
         line-height: 15px;
